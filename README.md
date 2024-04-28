@@ -1,4 +1,4 @@
-*Credit Card Fraud Detection Data Analysis*
+# *Credit Card Fraud Detection Data Analysis*
 
 **Overview:**
 This repository contains a data analysis project focused on credit card fraud detection. The aim of this project is to explore a dataset, develop insights, and build predictive models to detect fraudulent transactions.
